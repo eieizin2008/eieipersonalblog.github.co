@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Steph’s Knowledge Hub
+title: Ei Ei's Knowledge Hub
 ---
 
 # Steph’s Knowledge Hub
@@ -9,22 +9,6 @@ title: Steph’s Knowledge Hub
 
 Welcome 👋  
 This blog is my personal learning repository where I document hands-on experience, lessons learned, and practical guides across cloud infrastructure, DevOps, and collaboration platforms.
-
----
-
-## 🔍 What You’ll Find Here
-
-- **Cloud Platforms**  
-  Azure, AWS fundamentals, architecture, and operations
-
-- **DevOps & CI/CD**  
-  Azure DevOps pipelines, GitHub Actions, automation, best practices
-
-- **SharePoint & Microsoft 365**  
-  Administration, governance, integrations, and troubleshooting
-
-- **Learning Notes**  
-  Concepts explained simply, real-world scenarios, and mistakes to avoid
 
 ---
 
@@ -52,5 +36,19 @@ Everything here is based on **hands-on learning**, not theory alone.
 
 ## 📫 Connect
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: *(add later if you want)*
+- LinkedIn: https://www.linkedin.com/in/ei-ei-zin-20b35435/
+- ## 🔍 What You’ll Find Here
+
+- **Cloud Platforms**  
+  Azure, AWS fundamentals, architecture, and operations
+
+- **DevOps & CI/CD**  
+  Azure DevOps pipelines, GitHub Actions, automation, best practices
+
+- **SharePoint & Microsoft 365**  
+  Administration, governance, integrations, and troubleshooting
+
+- **Learning Notes**  
+  Concepts explained simply, real-world scenarios, and mistakes to avoid
+
+---
