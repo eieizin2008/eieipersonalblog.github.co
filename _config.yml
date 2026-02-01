@@ -1,0 +1,22 @@
+title: Ei Ei's Knowledge Hub
+description: Personal learning repository focused on DevOps, Cloud, and SharePoint
+author: Ei Ei
+email: eieizin2008@gmail.com
+
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
+social_links:
+  github: eieizin2008
+  linkedin: ei-ei-zin-20b35435
