@@ -1,11 +1,8 @@
 
 # Ei Ei’s Knowledge Hub
 
-**DevOps | Cloud | SharePoint | Continuous Learning**
-
 Welcome 👋  
 This blog is my personal learning repository where I document hands-on experience, lessons learned, and practical guides across cloud infrastructure, DevOps, and collaboration platforms.
-
 
 ## 📝 Latest Posts
 
@@ -17,7 +14,6 @@ This blog is my personal learning repository where I document hands-on experienc
 {% endraw %}
 
 ---
-
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/ei-ei-zin-20b35435/
