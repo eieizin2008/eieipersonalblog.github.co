@@ -1,27 +1,11 @@
----
-layout: default
-title: Ei Ei's Knowledge Hub
----
 
-# Steph’s Knowledge Hub
+# Ei Ei’s Knowledge Hub
 
 **DevOps | Cloud | SharePoint | Continuous Learning**
 
 Welcome 👋  
 This blog is my personal learning repository where I document hands-on experience, lessons learned, and practical guides across cloud infrastructure, DevOps, and collaboration platforms.
 
----
-
-## 🧠 Why This Blog Exists
-
-Technology evolves fast. Writing things down helps me:
-- Reinforce what I learn  
-- Share practical knowledge with others  
-- Build a public record of continuous improvement  
-
-Everything here is based on **hands-on learning**, not theory alone.
-
----
 
 ## 📝 Latest Posts
 
@@ -50,5 +34,14 @@ Everything here is based on **hands-on learning**, not theory alone.
 
 - **Learning Notes**  
   Concepts explained simply, real-world scenarios, and mistakes to avoid
+
+## 🧠 Why This Blog Exists
+
+Technology evolves fast. Writing things down helps me:
+- Reinforce what I learn  
+- Share practical knowledge with others  
+- Build a public record of continuous improvement  
+
+Everything here is based on **hands-on learning**, not theory alone.
 
 ---
